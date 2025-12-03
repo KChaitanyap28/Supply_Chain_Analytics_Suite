@@ -1,0 +1,3 @@
+01_Raw_Data/
+*.csv
+__pycache__/
