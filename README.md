@@ -1,6 +1,6 @@
 # Supply Chain & Customer Retention Intelligence Suite
 
-![Dashboard Preview](05_Exports/PowerBI.gif)
+![Dashboard Preview](05_Exports/PowerBI_Demo.gif)
 
 ## 📌 Project Overview
 **Goal:** As an MBA student specializing in Analytics, I aimed to solve a core E-commerce problem: *High Revenue masking Low Retention.* 
